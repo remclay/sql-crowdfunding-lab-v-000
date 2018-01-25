@@ -7,4 +7,4 @@ INSERT INTO users (id, name, age) VALUES ('Finnebar', 17), (2, 'Bear', 6), (3, '
 (17, 'Whale', 6), (18, 'Pacha', 5), (19, 'Ena', 24), (20, 'Katie', 24);
 
 
-file, insert 10 projects, 20 users, and 30 pledges into the database.
+
